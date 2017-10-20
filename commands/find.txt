@@ -1,0 +1,55 @@
+./.Trash/html 1.14.21 PM.txt
+./.Trash/html 1.14.43 PM.txt
+./.Trash/html.txt
+./.Trash/jpg.txt
+./.Trash/Sean_Cunningham_Exercise02 2/backup/git/Exercise02/cat.txt
+./.Trash/Sean_Cunningham_Exercise02 2/backup/git/Exercise02/head.txt
+./.Trash/Sean_Cunningham_Exercise02 2/backup/git/html.txt
+./.Trash/Sean_Cunningham_Exercise02 2/backup/git/jpg.txt
+./.Trash/Sean_Cunningham_Exercise02 2/Exercise02.txt
+./.Trash/Sean_Cunningham_Exercise02 2/git/Exercise02/cat.txt
+./.Trash/Sean_Cunningham_Exercise02 2/git/Exercise02/head.txt
+./.Trash/Sean_Cunningham_Exercise02 2/git/html.txt
+./.Trash/Sean_Cunningham_Exercise02 2/git/jpg.txt
+./Desktop/desktopls.txt
+./Desktop/MyGit/D3SysExam/commands/bottom.txt
+./Desktop/MyGit/D3SysExam/commands/desktopls.txt
+./Desktop/MyGit/D3SysExam/commands/find.txt
+./Desktop/MyGit/D3SysExam/commands/img.txt
+./Desktop/MyGit/D3SysExam/commands/top.txt
+./Desktop/Sean_Cunningham_Exercise02/backup/git/Exercise02/cat.txt
+./Desktop/Sean_Cunningham_Exercise02/backup/git/Exercise02/head.txt
+./Desktop/Sean_Cunningham_Exercise02/backup/git/html.txt
+./Desktop/Sean_Cunningham_Exercise02/backup/git/jpg.txt
+./Desktop/Sean_Cunningham_Exercise02/Exercise02.txt
+./Desktop/Sean_Cunningham_Exercise02/git/Exercise02/cat.txt
+./Desktop/Sean_Cunningham_Exercise02/git/Exercise02/head.txt
+./Desktop/Sean_Cunningham_Exercise02/git/html.txt
+./Desktop/Sean_Cunningham_Exercise02/git/jpg.txt
+./Desktop/Sean_Cunningham_FinalExam.txt
+./Downloads/Class01 (1)/Lesson01/02Random.txt
+./Downloads/Class01 (1)/Lesson01/Random01.txt
+./Downloads/Class01 (1)/Lesson01/Random03.txt
+./Downloads/Class03/Lab03/Illustrator.txt
+./Downloads/Class03/Lab03/Photoshop.txt
+./Downloads/Class03/Lab03/Subdirectory/File01.txt
+./Downloads/Class03/Lab03/Subdirectory/File02.txt
+./Downloads/Class03/Lab03/Subdirectory/File03.txt
+./Downloads/Class03/Lab03/Subdirectory/File04.txt
+./Downloads/Class03/Lab03/Subdirectory/File05 2.txt
+./Exercise02.txt
+./htdocs/commands/desktopls.txt
+./htdocs/commands/img.txt
+./Library/Application Support/Adobe/CameraRaw/GPU/Camera Raw GPU Config.txt
+./Library/Application Support/Avid/AppManager/Config.txt
+./Library/Application Support/Brackets/live-dev-profile/Default/Service Worker/CacheStorage/783e7ccd1569e6f0af8b16953519e77950ae84e4/index.txt
+./Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/0f48a22277f64c442756e922770a3faedfa75bed/index.txt
+./Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/783e7ccd1569e6f0af8b16953519e77950ae84e4/index.txt
+./Library/Application Support/TextWrangler/.SupportFolderMigration.txt
+./Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000000-csi.txt
+./Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000001-csi.txt
+./Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000002-csi.txt
+./Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000003-csi.txt
+./Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000004-csi.txt
+./Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000005-csi.txt
+./Library/Preferences/Adobe Photoshop CC 2017 Settings/sniffer-out.txt
